@@ -38,5 +38,5 @@
 <h3 align = "left">⚡ My Stats;</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/?username=aung-st&count_private=true&theme=vision-friendly-dark&showicons=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aung-st&layout=compact&theme=vision-friendly-dark" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aung-st&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&" height="175"/>
 </p>
