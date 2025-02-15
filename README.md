@@ -4,9 +4,9 @@
 😄 This is where I like to make and break things!
 </h3>
 
-- 🔭 I’m currently working on an OSRS-Bond-Tracker</li>
-- 🌱 I’m currently learning MySql, javascript</li>
-- ⚡ I like making goofy lineups in fps games and high alching in OSRS</li>
+- 🔭 I try to break apps and make people fix them for a living</li>
+- 🌱 I’m currently learning javascript, automation testing</li>
+- ⚡ I have chopped too many yew logs in OSRS</li>
 
 
 <p align="center">
